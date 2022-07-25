@@ -1,1 +1,1 @@
-[{"id": "0","title": "Mouse","image": "<url>"},{"id": "1","title": "Headset","image": "<url>"},{"id": "2","title": "Tablet","image": "<url>"}]
+[{"id": "0","title": "Mouse","image": "https://github.com/fraygeyst/LearningAppGyver/blob/main/ScrollViewExample/mouse.jpg"},{"id": "1","title": "Headset","image": "https://github.com/fraygeyst/LearningAppGyver/blob/main/ScrollViewExample/headset.jpg"},{"id": "2","title": "Tablet","image": "https://github.com/fraygeyst/LearningAppGyver/blob/main/ScrollViewExample/tablet.jpg"}]
